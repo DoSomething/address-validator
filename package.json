@@ -1,0 +1,17 @@
+{
+  "name": "address-validator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babyparse": "^0.4.6",
+    "dotenv": "^4.0.0",
+    "googlemaps": "^1.12.0",
+    "node-fetch": "^1.7.1"
+  }
+}
